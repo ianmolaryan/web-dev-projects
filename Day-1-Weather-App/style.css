@@ -5,7 +5,7 @@
     font-family: 'poppins',sans-serif;
 }
 body{
-    background-color: #222;
+    background-color: #252432;
 }
 .card{
     width: 90%;
@@ -92,4 +92,9 @@ body{
     font-size: 14px;
     margin-top: 14px;
     display: none;
+}
+.min_max_temp{
+    font-weight: 400;
+    margin-top: -20px;
+    margin-bottom: 20px;
 }
