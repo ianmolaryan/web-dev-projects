@@ -1,14 +1,14 @@
-<a name="readme-top"></a>
-<style>
+<head>
+    <style>
 .responsive-img {
-    width: 80%; /* Default width for desktop */
-    max-width: 100%; /* Ensures image doesn't exceed container size */
-    height: auto; /* Maintains aspect ratio */
+    width: 80%;
+    max-width: 100%;
+    height: auto;
 }
 .responsive-img-banner {
-    width: 40%; /* Default width for desktop */
-    max-width: 100%; /* Ensures image doesn't exceed container size */
-    height: auto; /* Maintains aspect ratio */
+    width: 40%;
+    max-width: 100%;
+    height: auto;
 }
 @media only screen and (max-width: 600px) {
     .responsive-img {
@@ -19,7 +19,8 @@
     }
 }
 </style>
-
+</head>
+<a name="readme-top"></a>
 
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
@@ -47,7 +48,6 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
 
 <!-- ABOUT THE PROJECT -->
 
@@ -85,21 +85,24 @@ This repository contains a collection of seven mini projects developed using HTM
 <!-- GETTING STARTED -->
 
 ## Projects
+
 ### 1.Weather Web App
+
 <a href="https://deepak-raaaz.github.io/js-projects/Weather-App/index.html">
     <img src="./thumbnails/thumbnail5.png" alt="Logo" class="responsive-img-banner">
   </a>
 
-   A web application that fetches weather information for a specific location using an API.
-   - Features:
-     - Display current weather conditions including temperature, humidity, and wind speed.
-     - Option to search for weather information by city name.
-   - Technologies Used: HTML, CSS, JavaScript, Weather API.
+A web application that fetches weather information for a specific location using an API.
 
-   [![Weather Web App][Weather Web App]][Weather-Web-App-url]
+- Features:
+  - Display current weather conditions including temperature, humidity, and wind speed.
+  - Option to search for weather information by city name.
+- Technologies Used: HTML, CSS, JavaScript, Weather API.
 
+[![Weather Web App][Weather Web App]][Weather-Web-App-url]
 
 ### 2.To-Do List Web App
+
 <a href="https://deepak-raaaz.github.io/js-projects/To-Do-List-App/index.html">
     <img src="./thumbnails/thumbnail7.png" alt="Logo" class="responsive-img-banner">
   </a>
@@ -111,9 +114,10 @@ This repository contains a collection of seven mini projects developed using HTM
      - Local storage to persist tasks.
    - Technologies Used: HTML, CSS, JavaScript.
 
-   [![To-Do-List-App][To-Do-List-App]][To-Do-List-App-url]
+[![To-Do-List-App][To-Do-List-App]][To-Do-List-App-url]
 
 ### 3.Quiz App
+
 <a href="https://deepak-raaaz.github.io/js-projects/Quiz-App/index.html">
     <img src="./thumbnails/thumbnail2.png" alt="Logo" class="responsive-img-banner">
   </a>
@@ -125,9 +129,10 @@ This repository contains a collection of seven mini projects developed using HTM
      - Option to retake the quiz.
    - Technologies Used: HTML, CSS, JavaScript.
 
-   [![Quiz-App][Quiz-App]][Quiz-App-url]
+[![Quiz-App][Quiz-App]][Quiz-App-url]
 
 ### 4.Age Calculator
+
 <a href="https://deepak-raaaz.github.io/js-projects/Age-Calculator/index.html">
     <img src="./thumbnails/thumbnail3.png" alt="Logo" class="responsive-img-banner">
   </a>
@@ -138,9 +143,10 @@ This repository contains a collection of seven mini projects developed using HTM
      - Calculation of age based on the current date.
    - Technologies Used: HTML, CSS, JavaScript.
 
-   [![Age-Calculator][Age-Calculator]][Age-Calculator-url]
+[![Age-Calculator][Age-Calculator]][Age-Calculator-url]
 
 ### 5.Notes Web App
+
 <a href="https://deepak-raaaz.github.io/js-projects/Notes-App/index.html">
     <img src="./thumbnails/thumbnail.png" alt="Logo" class="responsive-img-banner">
   </a>
@@ -152,9 +158,10 @@ This repository contains a collection of seven mini projects developed using HTM
      - Simple and intuitive user interface.
    - Technologies Used: HTML, CSS, JavaScript.
 
-   [![Notes-App][Notes-App]][Notes-App-url]
+[![Notes-App][Notes-App]][Notes-App-url]
 
 ### 6.Quote Generator
+
 <a href="https://deepak-raaaz.github.io/js-projects/Quote-Generator/index.html">
     <img src="./thumbnails/thumbnail4.png" alt="Logo" class="responsive-img-banner">
   </a>
@@ -166,9 +173,10 @@ A web application that generates random quotes.
      - Share quote on social media.
    - Technologies Used: HTML, CSS, JavaScript, Quote API.
 
-   [![Quote-Generator][Quote-Generator]][Quote-Generator-url]
+[![Quote-Generator][Quote-Generator]][Quote-Generator-url]
 
 ### 7.Random Password Generator
+
 <a href="https://deepak-raaaz.github.io/js-projects/Random-Password-Generator/index.html">
     <img src="./thumbnails/thumbnail6.png" alt="Logo" class="responsive-img-banner">
   </a>
@@ -176,7 +184,7 @@ A web application that generates random quotes.
    A tool to generate random passwords.
    - Technologies Used: HTML, CSS, JavaScript.
 
-   [![Random-Password-Generator][Random-Password-Generator]][Random-Password-Generator-url]
+[![Random-Password-Generator][Random-Password-Generator]][Random-Password-Generator-url]
 
 ## How to Run:
 
@@ -230,24 +238,17 @@ Project Link: [https://github.com/deepak-raaaz/js-projects](https://github.com/d
 [Git-url]: https://git-scm.com/
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-
 [Weather Web App]: https://badgen.net/static/Live%20Demo/Click%20Here/orange
 [Weather-Web-App-url]: https://deepak-raaaz.github.io/js-projects/Weather-App/index.html
-
 [Age-Calculator]: https://badgen.net/static/Live%20Demo/Click%20Here/blue
 [Age-Calculator-url]: https://deepak-raaaz.github.io/js-projects/Age-Calculator/index.html
-
 [Notes-App]: https://badgen.net/static/Live%20Demo/Click%20Here/pink
 [Notes-App-url]: https://deepak-raaaz.github.io/js-projects/Notes-App/index.html
-
 [Quiz-App]: https://badgen.net/static/Live%20Demo/Click%20Here/purple
 [Quiz-App-url]: https://deepak-raaaz.github.io/js-projects/Quiz-App/index.html
-
 [Quote-Generator]: https://badgen.net/static/Live%20Demo/Click%20Here/green
 [Quote-Generator-url]: https://deepak-raaaz.github.io/js-projects/Quote-Generator/index.html
-
 [Random-Password-Generator]: https://badgen.net/static/Live%20Demo/Click%20Here/yellow
 [Random-Password-Generator-url]: https://deepak-raaaz.github.io/js-projects/Random-Password-Generator/index.html
-
 [To-Do-List-App]: https://badgen.net/static/Live%20Demo/Click%20Here/red
 [To-Do-List-App-url]: https://deepak-raaaz.github.io/js-projects/To-Do-List-App/index.html
