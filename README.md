@@ -11,9 +11,17 @@
 
   <h3 align="center">7 Mini Projects - [ HTML + CSS + JS ]</h3>
 
-  <!-- <p align="center">
-    A clone of the Spotify web application built using ReactJS and the Spotify API.
-  </p> -->
+   <p align="center">
+    <br />
+    <a href="https://github.com/deepak-raaaz/js-projects"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://deepak-raaaz.github.io/js-projects/">View Demo</a>
+    ·
+    <a href="https://github.com/deepak-raaaz/js-projects/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/deepak-raaaz/js-projects/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
   <br/>
 </div>
 
