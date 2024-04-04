@@ -1,25 +1,4 @@
-<head>
-    <style>
-.responsive-img {
-    width: 80%;
-    max-width: 100%;
-    height: auto;
-}
-.responsive-img-banner {
-    width: 40%;
-    max-width: 100%;
-    height: auto;
-}
-@media only screen and (max-width: 600px) {
-    .responsive-img {
-        width: 100%; 
-    }
-    .responsive-img-banner{
-        width: 100%; 
-    }
-}
-</style>
-</head>
+<link rel="stylesheet" type="text/css" href="style.css">
 <a name="readme-top"></a>
 
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
