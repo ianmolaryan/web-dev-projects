@@ -57,6 +57,10 @@ This repository contains a collection of seven mini projects developed using HTM
 
 ## Projects
 ### 1.Weather Web App
+<a href="https://deepak-raaaz.github.io/js-projects/Weather-App/index.html">
+    <img src="./thumbnails/thumbnail5.png" alt="Logo" width="30%">
+  </a>
+
    A web application that fetches weather information for a specific location using an API.
    - Features:
      - Display current weather conditions including temperature, humidity, and wind speed.
@@ -67,6 +71,10 @@ This repository contains a collection of seven mini projects developed using HTM
 
 
 ### 2.To-Do List Web App
+<a href="https://deepak-raaaz.github.io/js-projects/To-Do-List-App/index.html">
+    <img src="./thumbnails/thumbnail7.png" alt="Logo" width="30%">
+  </a>
+  
    A simple to-do list application for managing tasks.
    - Features:
      - Add, edit, and delete tasks.
@@ -77,6 +85,10 @@ This repository contains a collection of seven mini projects developed using HTM
    [![To-Do-List-App][To-Do-List-App]][To-Do-List-App-url]
 
 ### 3.Quiz App
+<a href="https://deepak-raaaz.github.io/js-projects/Quiz-App/index.html">
+    <img src="./thumbnails/thumbnail2.png" alt="Logo" width="30%">
+  </a>
+  
    A quiz application with multiple-choice questions.
    - Features:
      - Randomly generated questions from a predefined set.
@@ -87,6 +99,10 @@ This repository contains a collection of seven mini projects developed using HTM
    [![Quiz-App][Quiz-App]][Quiz-App-url]
 
 ### 4.Age Calculator
+<a href="https://deepak-raaaz.github.io/js-projects/Age-Calculator/index.html">
+    <img src="./thumbnails/thumbnail3.png" alt="Logo" width="30%">
+  </a>
+  
    A tool to calculate age based on the date of birth.
    - Features:
      - Input field to enter the date of birth.
@@ -96,6 +112,10 @@ This repository contains a collection of seven mini projects developed using HTM
    [![Age-Calculator][Age-Calculator]][Age-Calculator-url]
 
 ### 5.Notes Web App
+<a href="https://deepak-raaaz.github.io/js-projects/Notes-App/index.html">
+    <img src="./thumbnails/thumbnail.png" alt="Logo" width="30%">
+  </a>
+  
    An application for taking and managing notes.
    - Features:
      - Add, edit, and delete notes.
@@ -106,6 +126,10 @@ This repository contains a collection of seven mini projects developed using HTM
    [![Notes-App][Notes-App]][Notes-App-url]
 
 ### 6.Quote Generator
+<a href="https://deepak-raaaz.github.io/js-projects/Quote-Generator/index.html">
+    <img src="./thumbnails/thumbnail4.png" alt="Logo" width="30%">
+  </a>
+  
 A web application that generates random quotes.
    - Features:
      - Fetches quotes from an API.
@@ -116,6 +140,10 @@ A web application that generates random quotes.
    [![Quote-Generator][Quote-Generator]][Quote-Generator-url]
 
 ### 7.Random Password Generator
+<a href="https://deepak-raaaz.github.io/js-projects/Random-Password-Generator/index.html">
+    <img src="./thumbnails/thumbnail6.png" alt="Logo" width="30%">
+  </a>
+  
    A tool to generate random passwords.
    - Technologies Used: HTML, CSS, JavaScript.
 
