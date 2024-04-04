@@ -1,4 +1,25 @@
 <a name="readme-top"></a>
+<style>
+.responsive-img {
+    width: 80%; /* Default width for desktop */
+    max-width: 100%; /* Ensures image doesn't exceed container size */
+    height: auto; /* Maintains aspect ratio */
+}
+.responsive-img-banner {
+    width: 40%; /* Default width for desktop */
+    max-width: 100%; /* Ensures image doesn't exceed container size */
+    height: auto; /* Maintains aspect ratio */
+}
+@media only screen and (max-width: 600px) {
+    .responsive-img {
+        width: 100%; 
+    }
+    .responsive-img-banner{
+        width: 100%; 
+    }
+}
+</style>
+
 
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
@@ -6,10 +27,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/deepak-raaaz/js-projects">
-    <img src="./js-project-banner.png" alt="Logo" width="80%">
+    <img src="./js-project-banner.png" alt="Logo" class="responsive-img">
   </a>
 
-  <h3 align="center">7 Mini Projects - [ HTML + CSS + JS ]</h3>
+  <h3 align="center">7 Mini Projects - [HTML + CSS + JS]</h3>
 
    <p align="center">
     <br />
@@ -66,7 +87,7 @@ This repository contains a collection of seven mini projects developed using HTM
 ## Projects
 ### 1.Weather Web App
 <a href="https://deepak-raaaz.github.io/js-projects/Weather-App/index.html">
-    <img src="./thumbnails/thumbnail5.png" alt="Logo" width="30%">
+    <img src="./thumbnails/thumbnail5.png" alt="Logo" class="responsive-img-banner">
   </a>
 
    A web application that fetches weather information for a specific location using an API.
@@ -80,7 +101,7 @@ This repository contains a collection of seven mini projects developed using HTM
 
 ### 2.To-Do List Web App
 <a href="https://deepak-raaaz.github.io/js-projects/To-Do-List-App/index.html">
-    <img src="./thumbnails/thumbnail7.png" alt="Logo" width="30%">
+    <img src="./thumbnails/thumbnail7.png" alt="Logo" class="responsive-img-banner">
   </a>
   
    A simple to-do list application for managing tasks.
@@ -94,7 +115,7 @@ This repository contains a collection of seven mini projects developed using HTM
 
 ### 3.Quiz App
 <a href="https://deepak-raaaz.github.io/js-projects/Quiz-App/index.html">
-    <img src="./thumbnails/thumbnail2.png" alt="Logo" width="30%">
+    <img src="./thumbnails/thumbnail2.png" alt="Logo" class="responsive-img-banner">
   </a>
   
    A quiz application with multiple-choice questions.
@@ -108,7 +129,7 @@ This repository contains a collection of seven mini projects developed using HTM
 
 ### 4.Age Calculator
 <a href="https://deepak-raaaz.github.io/js-projects/Age-Calculator/index.html">
-    <img src="./thumbnails/thumbnail3.png" alt="Logo" width="30%">
+    <img src="./thumbnails/thumbnail3.png" alt="Logo" class="responsive-img-banner">
   </a>
   
    A tool to calculate age based on the date of birth.
@@ -121,7 +142,7 @@ This repository contains a collection of seven mini projects developed using HTM
 
 ### 5.Notes Web App
 <a href="https://deepak-raaaz.github.io/js-projects/Notes-App/index.html">
-    <img src="./thumbnails/thumbnail.png" alt="Logo" width="30%">
+    <img src="./thumbnails/thumbnail.png" alt="Logo" class="responsive-img-banner">
   </a>
   
    An application for taking and managing notes.
@@ -135,7 +156,7 @@ This repository contains a collection of seven mini projects developed using HTM
 
 ### 6.Quote Generator
 <a href="https://deepak-raaaz.github.io/js-projects/Quote-Generator/index.html">
-    <img src="./thumbnails/thumbnail4.png" alt="Logo" width="30%">
+    <img src="./thumbnails/thumbnail4.png" alt="Logo" class="responsive-img-banner">
   </a>
   
 A web application that generates random quotes.
@@ -149,7 +170,7 @@ A web application that generates random quotes.
 
 ### 7.Random Password Generator
 <a href="https://deepak-raaaz.github.io/js-projects/Random-Password-Generator/index.html">
-    <img src="./thumbnails/thumbnail6.png" alt="Logo" width="30%">
+    <img src="./thumbnails/thumbnail6.png" alt="Logo" class="responsive-img-banner">
   </a>
   
    A tool to generate random passwords.
