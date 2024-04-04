@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
 <a name="readme-top"></a>
 
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
@@ -68,7 +67,7 @@ This repository contains a collection of seven mini projects developed using HTM
 ### 1.Weather Web App
 
 <a href="https://deepak-raaaz.github.io/js-projects/Weather-App/index.html">
-    <img src="./thumbnails/thumbnail5.png" alt="Logo" class="responsive-img-banner">
+    <img src="./thumbnails/thumbnail5.png" alt="Logo" width="80%">
   </a>
 
 A web application that fetches weather information for a specific location using an API.
@@ -83,7 +82,7 @@ A web application that fetches weather information for a specific location using
 ### 2.To-Do List Web App
 
 <a href="https://deepak-raaaz.github.io/js-projects/To-Do-List-App/index.html">
-    <img src="./thumbnails/thumbnail7.png" alt="Logo" class="responsive-img-banner">
+    <img src="./thumbnails/thumbnail7.png" alt="Logo" width="80%">
   </a>
   
    A simple to-do list application for managing tasks.
@@ -98,7 +97,7 @@ A web application that fetches weather information for a specific location using
 ### 3.Quiz App
 
 <a href="https://deepak-raaaz.github.io/js-projects/Quiz-App/index.html">
-    <img src="./thumbnails/thumbnail2.png" alt="Logo" class="responsive-img-banner">
+    <img src="./thumbnails/thumbnail2.png" alt="Logo" width="80%">
   </a>
   
    A quiz application with multiple-choice questions.
@@ -113,7 +112,7 @@ A web application that fetches weather information for a specific location using
 ### 4.Age Calculator
 
 <a href="https://deepak-raaaz.github.io/js-projects/Age-Calculator/index.html">
-    <img src="./thumbnails/thumbnail3.png" alt="Logo" class="responsive-img-banner">
+    <img src="./thumbnails/thumbnail3.png" alt="Logo" width="80%">
   </a>
   
    A tool to calculate age based on the date of birth.
@@ -127,7 +126,7 @@ A web application that fetches weather information for a specific location using
 ### 5.Notes Web App
 
 <a href="https://deepak-raaaz.github.io/js-projects/Notes-App/index.html">
-    <img src="./thumbnails/thumbnail.png" alt="Logo" class="responsive-img-banner">
+    <img src="./thumbnails/thumbnail.png" alt="Logo" width="80%">
   </a>
   
    An application for taking and managing notes.
@@ -142,7 +141,7 @@ A web application that fetches weather information for a specific location using
 ### 6.Quote Generator
 
 <a href="https://deepak-raaaz.github.io/js-projects/Quote-Generator/index.html">
-    <img src="./thumbnails/thumbnail4.png" alt="Logo" class="responsive-img-banner">
+    <img src="./thumbnails/thumbnail4.png" alt="Logo" width="80%">
   </a>
   
 A web application that generates random quotes.
@@ -157,7 +156,7 @@ A web application that generates random quotes.
 ### 7.Random Password Generator
 
 <a href="https://deepak-raaaz.github.io/js-projects/Random-Password-Generator/index.html">
-    <img src="./thumbnails/thumbnail6.png" alt="Logo" class="responsive-img-banner">
+    <img src="./thumbnails/thumbnail6.png" alt="Logo" width="80%">
   </a>
   
    A tool to generate random passwords.
