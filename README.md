@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/deepak-raaaz/spotify-clone">
+  <a href="https://github.com/deepak-raaaz/js-projects">
     <img src="./js-project-banner.png" alt="Logo" width="80%">
   </a>
 
