@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',  sans-serif;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: #252432;
+    padding: 10px;
+}
+.button-container{
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 4rem;
+    color: rgb(255, 136, 0);
+}
+.list{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.3rem;
+}
