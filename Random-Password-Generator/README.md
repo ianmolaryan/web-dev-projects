@@ -20,8 +20,7 @@ The **Random Password Generator** is a simple yet powerful web application that 
 
 ## Live Demo
 
-[Click here to access the live demo](#)  
-(_Note: Add the actual link to the live version of your application here_)
+Run the index.html file to start the application
 
 ## How to Use
 
