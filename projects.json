@@ -40,5 +40,11 @@
         "title": "Random Password Generator",
         "link": "/Random-Password-Generator/index.html",
         "readme": "/Random-Password-Generator/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/amazon-page-clone.png",
+        "title": "Amazon clone",
+        "link": "/amazon-page-clone/index.html",
+        "readme": "/amazon-page-clone/README.md"
     }
 ]
