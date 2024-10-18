@@ -1,42 +1,42 @@
 [
     {
-        "thumbnail": "/web-dev-projects/thumbnails/weather-app-thumbnail.png",
+        "thumbnail": "/thumbnails/weather-app-thumbnail.png",
         "title": "Weather Web App",
         "link": "/Weather-App/index.html",
         "readme": "/Weather-App/README.md"
     },
     {
-        "thumbnail": "/web-dev-projects/thumbnails/todo-list-thumbnail.png",
+        "thumbnail": "/thumbnails/todo-list-thumbnail.png",
         "title": "To-Do List Web App",
         "link": "/To-Do-List-App/index.html",
         "readme": "/To-Do-List-App/README.md"
     },
     {
-        "thumbnail": "/web-dev-projects/thumbnails/quiz-app-thumbnail.png",
+        "thumbnail": "/thumbnails/quiz-app-thumbnail.png",
         "title": "Quiz App",
         "link": "/Quiz-App/index.html",
         "readme": "/Quiz-App/README.md"
     },
     {
-        "thumbnail": "/web-dev-projects/thumbnails/age-calculator-thumbnail.png",
+        "thumbnail": "/thumbnails/age-calculator-thumbnail.png",
         "title": "Age Calculator",
         "link": "/Age-Calculator/index.html",
         "readme": "/Age-Calculator/README.md"
     },
     {
-        "thumbnail": "/web-dev-projects/thumbnails/notes-app-thumbnail.png",
+        "thumbnail": "/thumbnails/notes-app-thumbnail.png",
         "title": "Notes Web App",
         "link": "/Notes-App/index.html",
         "readme": "/Notes-App/README.md"
     },
     {
-        "thumbnail": "/web-dev-projects/thumbnails/quote-generator-thumbnail.png",
+        "thumbnail": "/thumbnails/quote-generator-thumbnail.png",
         "title": "Quote Generator",
         "link": "/Quote-Generator/index.html",
         "readme": "/Quote-Generator/README.md"
     },
     {
-        "thumbnail": "/web-dev-projects/thumbnails/password-generator-thumbnail.png",
+        "thumbnail": "/thumbnails/password-generator-thumbnail.png",
         "title": "Random Password Generator",
         "link": "/Random-Password-Generator/index.html",
         "readme": "/Random-Password-Generator/README.md"
