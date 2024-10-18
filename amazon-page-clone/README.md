@@ -16,7 +16,7 @@ A static Amazon-like web application that replicates the user interface of Amazo
 
 ## Live Demo
 
-[Click here to view the live demo](https://deepak-raaaz.github.io/web-dev-projects/amazon-page-clone/index.html)
+[Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/amazon-page-clone/index.html)
 
 ## How to Use
 
