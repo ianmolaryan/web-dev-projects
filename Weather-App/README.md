@@ -17,7 +17,7 @@ A simple web application to check the current weather of any city using the Open
 
 ## Live Demo
 
-[Click here to view the live demo](https://deepak-raaaz.github.io/web-dev-projects/Weather-App/index.html)
+[Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/Weather-App/index.html)
 
 ## How to Use
 
