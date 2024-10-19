@@ -1,19 +1,19 @@
-# Animated-Login-Page
+Here’s an updated version for a README.md file focusing on an animated login page using only HTML and CSS:
 
-A visually appealing login page with smooth animations that enhances the user experience. This project serves as a demonstration of modern web design techniques for creating engaging login forms.
+# Animated Login Page
+
+A simple yet visually appealing login page featuring smooth animations to enhance the user experience. This project demonstrates modern web design techniques using only HTML and CSS.
 
 ## Features
 
-- Interactive animations for input fields and button hover effects.
-- Eye-catching background animations to improve visual appeal.
-- Responsive design, ensuring compatibility across various devices.
-- Basic form validation for user inputs.
+- Smooth animations for input fields and button hover effects.
+- Stylish background and form design for a professional look.
+- Fully responsive design to ensure compatibility across different devices.
 
 ## Built With
 
 - HTML5
-- CSS3 (with animations)
-- JavaScript (for form validation)
+- CSS3 (animations and styling)
 
 ## Live Demo
 
@@ -22,9 +22,9 @@ A visually appealing login page with smooth animations that enhances the user ex
 ## How to Use
 
 1. Open the live demo link to view the login page.
-2. Interact with the input fields and submit button to see the animations.
-3. Try entering text to see form validation in action.
+2. Interact with the input fields and submit button to experience the animations.
+3. The form design is static, with no backend functionality.
 
 ## Additional Information
 
-This project is intended for educational purposes, showcasing how to create an animated login page using HTML, CSS, and JavaScript. It does not include any backend integration for actual authentication.
+This project is for educational purposes, showcasing how to create an animated login page using only HTML and CSS. It can be extended with JavaScript for validation and backend integration for a complete login system.
