@@ -46,5 +46,11 @@
         "title": "Amazon clone",
         "link": "/amazon-page-clone/index.html",
         "readme": "/amazon-page-clone/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/Animated-Login-Page.png",
+        "title": "Animated Login Page",
+        "link": "/Animated-Login-Page/index.html",
+        "readme": "/Animated-Login-Page/README.md"
     }
 ]
