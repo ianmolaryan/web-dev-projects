@@ -21,7 +21,7 @@ Thank you for your interest in contributing to our Web-Dev Projects collection! 
      - A **Live Demo** section with a link to view the project:
        ```markdown
        ## Live Demo
-       [Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/Your-Project-Directory)
+       [Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/Your-Project-Directory/index.html)
        ```
 
 4. **Update `projects.json` File:**
