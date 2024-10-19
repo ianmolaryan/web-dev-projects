@@ -1,5 +1,3 @@
-Here’s an updated version for a README.md file focusing on an animated login page using only HTML and CSS:
-
 # Animated Login Page
 
 A simple yet visually appealing login page featuring smooth animations to enhance the user experience. This project demonstrates modern web design techniques using only HTML and CSS.
@@ -17,7 +15,7 @@ A simple yet visually appealing login page featuring smooth animations to enhanc
 
 ## Live Demo
 
-[Click here to view the live demo](https://adarsh9523v.github.io/Animated-Login-Page/)
+[Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/Animated-Login-Page)
 
 ## How to Use
 

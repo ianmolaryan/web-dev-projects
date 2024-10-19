@@ -16,7 +16,7 @@ A simple and intuitive To-Do list web application to manage tasks.
 
 ## Live Demo
 
-[Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/To-Do-List-App/index.html)
+[Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/To-Do-List-App)
 
 ## How to Use
 
