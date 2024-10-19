@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web-Dev Projects</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 <body>
     <div class="container">
@@ -14,10 +15,14 @@
             <div class="search-container">
                 <input type="text" id="searchInput" placeholder="Search projects..." />
             </div>
-            <div class="card-container" id="cardContainer"></div>
+            <div class="card-container" id="cardContainer" data-aos="zoom-out-up" data-aos-delay="300"></div>
         </div>
     </div>
 
     <script src="script.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
 </body>
 </html>
