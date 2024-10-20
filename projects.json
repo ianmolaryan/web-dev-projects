@@ -55,9 +55,20 @@
     },
 
     {
+        "thumbnail": "/thumbnails/nike-thumbnail.png",
+        "title": "Nike Old Clone",
+        "link": "/nike/index.html",
+        "readme": "/nike/README.md"
+    },
+
+
+
+    {
         "thumbnail": "/thumbnails/littletacoshop-thumbnail.png",
         "title": "Little Taco Shop",
         "link": "/littletacoshop-directory/index.html",
         "readme": "/littletacoshop-directory/README.md"
       }
 ]
+
+
