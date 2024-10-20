@@ -52,7 +52,7 @@ h1 {
 /* Card container */
 .card-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjusted for smaller cards */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Adjusted for smaller cards */
     gap: 20px; /* Gap between cards */
 }
 
@@ -73,7 +73,8 @@ h1 {
 /* Card image */
 .card img {
     width: 100%;
-    height: 120px; /* Reduced height for smaller cards */
+    /* height: 120px;  */
+    aspect-ratio: 16 / 9;
     object-fit: cover;
 }
 

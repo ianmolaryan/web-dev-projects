@@ -18,6 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     const card = document.createElement("div");
                     card.classList.add("card");
 
+                    // Add data attributes
+                    card.setAttribute("data-aos", "fade-up");
+                    card.setAttribute("data-aos-delay", "300");
+
                     // Create and set thumbnail image
                     const img = document.createElement("img");
                     img.src = project.thumbnail;
@@ -38,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     readMore.href = `project.html?index=${index}&title=${encodeURIComponent(project.title)}&readme=${project.readme}`;
                     readMore.classList.add("btn");
                     readMore.textContent = "Read More";
-                    
+
                     // Append title and button to card content, then to card
                     cardContent.appendChild(readMore);
                     card.appendChild(cardContent);

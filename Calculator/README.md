@@ -29,7 +29,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-Run the index.html file to start the application
+[Click here to view the live demo](https://dsch-web-dev-projects.vercel.app/Calculator/index.html)
 
 ## Calculator Functionalities
 

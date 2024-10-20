@@ -55,27 +55,22 @@
     },
 
     {
-        "thumbnail": "/thumbnails/your-project-thumbnail.png",
-        "title": "TextAnalysisNLP_App",
-        "link": "/your-project-directory/index.html",
-        "readme": "/your-project-directory/README.md"
+        "thumbnail": "/thumbnails/calculator-thumbnail.png",
+        "title": "Calculator",
+        "link": "/Calculator/index.html",
+        "readme": "/Calculator/README.md"
     },
-
-
     {
         "thumbnail": "/thumbnails/nike-thumbnail.png",
         "title": "Nike Old Clone",
         "link": "/nike/index.html",
         "readme": "/nike/README.md"
     },
-
-
-
     {
         "thumbnail": "/thumbnails/littletacoshop-thumbnail.png",
         "title": "Little Taco Shop",
-        "link": "/littletacoshop-directory/index.html",
-        "readme": "/littletacoshop-directory/README.md"
+        "link": "/littletacoshop/index.html",
+        "readme": "/littletacoshop/README.md"
       }
 
 ]
