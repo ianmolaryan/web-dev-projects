@@ -52,5 +52,11 @@
         "title": "Animated Login Page",
         "link": "/Animated-Login-Page/index.html",
         "readme": "/Animated-Login-Page/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/your-project-thumbnail.png",
+        "title": "TextAnalysisNLP_App",
+        "link": "/your-project-directory/index.html",
+        "readme": "/your-project-directory/README.md"
     }
 ]
