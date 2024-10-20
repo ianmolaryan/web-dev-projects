@@ -52,5 +52,11 @@
         "title": "Animated Login Page",
         "link": "/Animated-Login-Page/index.html",
         "readme": "/Animated-Login-Page/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/nike-thumbnail.png",
+        "title": "Nike Old Clone",
+        "link": "/nike/index.html",
+        "readme": "/nike/README.md"
     }
 ]
