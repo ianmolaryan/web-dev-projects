@@ -55,6 +55,14 @@
     },
 
     {
+        "thumbnail": "/thumbnails/your-project-thumbnail.png",
+        "title": "TextAnalysisNLP_App",
+        "link": "/your-project-directory/index.html",
+        "readme": "/your-project-directory/README.md"
+    },
+
+
+    {
         "thumbnail": "/thumbnails/nike-thumbnail.png",
         "title": "Nike Old Clone",
         "link": "/nike/index.html",
@@ -69,6 +77,7 @@
         "link": "/littletacoshop-directory/index.html",
         "readme": "/littletacoshop-directory/README.md"
       }
+
 ]
 
 
