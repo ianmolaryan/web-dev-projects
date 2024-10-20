@@ -71,6 +71,12 @@
         "title": "Little Taco Shop",
         "link": "/littletacoshop/index.html",
         "readme": "/littletacoshop/README.md"
+      },
+      {
+        "thumbnail": "/thumbnails/gym-animating.png",
+        "title": "gym-animating",
+        "link": "/gym-animating/index.html",
+        "readme": "/gym-animating/README.md"
       }
 
 ]
