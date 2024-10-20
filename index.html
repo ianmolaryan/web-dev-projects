@@ -1,28 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Web-Dev Projects</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+  </head>
+  <body>
     <div class="container">
-        <div class="button-container">
-            <h1>Web-Dev Projects</h1>
-            <!-- Search Bar -->
-            <div class="search-container">
-                <input type="text" id="searchInput" placeholder="Search projects..." />
-            </div>
-            <div class="card-container" id="cardContainer"></div>
+      <div class="button-container">
+        <h1>Web-Dev Projects</h1>
+        <!-- Search Bar -->
+        <div class="search-container">
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Search projects..."
+          />
         </div>
+        <!-- card container  -->
+        <div class="card-container" id="cardContainer"></div>
+      </div>
     </div>
 
     <script src="script.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-        AOS.init();
-      </script>
-</body>
+      AOS.init();
+    </script>
+  </body>
 </html>
