@@ -53,7 +53,6 @@
         "link": "/Animated-Login-Page/index.html",
         "readme": "/Animated-Login-Page/README.md"
     },
-
     {
         "thumbnail": "/thumbnails/calculator-thumbnail.png",
         "title": "Calculator",
@@ -71,6 +70,8 @@
         "title": "Little Taco Shop",
         "link": "/littletacoshop/index.html",
         "readme": "/littletacoshop/README.md"
+
+
       },
       {
         "thumbnail": "/thumbnails/gym-animating.png",
@@ -80,5 +81,6 @@
       }
 
 ]
+
 
 
