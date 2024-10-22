@@ -73,3 +73,21 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch((error) => console.error("Error loading projects:", error));
 });
+
+
+
+// making navbar responsive
+
+const menuToggle = document.querySelector('.menu-toggle');
+const navLinks = document.querySelector('.nav-links');
+
+menuToggle.addEventListener('click', () => {
+  console.log("hambuger is pressed");
+  navLinks.classList.toggle('active');
+});
+
+window.addEventListener('resize', () => {
+  if (window.innerWidth > 768) {
+    navLinks.classList.remove('active');  // Ensure the menu is hidden on larger screens
+  }
+});

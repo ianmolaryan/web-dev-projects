@@ -108,6 +108,8 @@ h1 {
 
 /* General styling for the navbar */
 .navbar {
+  position: sticky;
+  top: 0;
   background-color: #357ab8; 
   padding: 2rem;
   padding-bottom: 1rem; 
@@ -120,7 +122,7 @@ h1 {
   z-index: 1000; /* Ensure it's on top of other content */
 }
 
-.navbar .brand a {
+.navbar .brand div {
   color: white;
   font-size: 1.5rem;
   text-decoration: none;
@@ -128,6 +130,7 @@ h1 {
 }
 
 .navbar .nav-links {
+
   list-style-type: none;
   display: flex; 
   gap: 1.5rem; 
@@ -139,10 +142,13 @@ h1 {
   text-decoration: none;
   font-size: 1rem;
   transition: color 0.3s;
+
 }
 
-.navbar .nav-links li a:hover {
-  color: #59abfc;
+.navbar .nav-links li:hover {
+  color: #b7c654;
+  text-shadow: 0px 0px 5px yellow;
+  scale: 1.25;
 }
 
 /* Footer Styles */
@@ -199,3 +205,96 @@ footer {
     font-size: 1.2rem; /* Adjust title size within cards */
   }
 }
+
+.gotop{                  /* go to top button above footer*/
+
+  height: 35px;
+  text-align: center;
+  border-radius: 5px;
+
+  a{
+    height: 100%;
+    margin:0;
+    padding: 0;
+    .toparrow{
+      mix-blend-mode: multiply;
+      filter: invert(0);
+      height: 10px;
+      padding: 0;
+    }
+    p{
+      margin: -12px 0;
+      padding: 0;
+      color: black;
+    }
+  }
+  
+}
+
+.navbar .menu-toggle{
+  display: none;
+}
+.menu-toggle.active{
+  display: none;
+}
+
+
+/* making navbar responsive */
+
+/* Responsive styles */
+@media (max-width: 768px) {
+
+  .nav-links {
+
+    right: 0;
+    width: 200px;
+    padding-right: 40px;
+    background-color: hsla(253, 19%, 45%, 0.4);
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px white, -3px 3px 10px white,3px -3px 10px white,-3px -3px 10px white ;
+  }
+
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+
+  .navbar .menu-toggle {
+    display: block;
+    
+    button{
+      cursor: pointer;
+      font-size: larger;
+      border: none;
+      outline: none;
+      background: none;
+    }
+  }
+
+  .brand{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 0.8rem;
+  }
+  .navbar .nav-links{
+    display: none;
+  }
+  .navbar .active {
+    display: block;
+    position: relative;
+    /* animation: movehamp 0.5s ease */
+  }
+  /* @keyframes movehamp {
+    from {
+      right: -200px;
+    }
+    to{
+      right: 0;
+
+    }
+  } */
+}
+
