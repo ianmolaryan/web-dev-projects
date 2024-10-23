@@ -54,6 +54,13 @@
         "readme": "/Animated-Login-Page/README.md"
     },
     {
+
+        "thumbnail": "/thumbnails/bootstrap-project.png",
+        "title": "Bootstrap Landing Page",
+        "link": "/bootstrap-project/index.html",
+        "readme": "/bootstrap-project/README.md"
+},
+  {
         "thumbnail": "/thumbnails/calculator-thumbnail.png",
         "title": "Calculator",
         "link": "/Calculator/index.html",
