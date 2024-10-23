@@ -12,6 +12,12 @@
         "readme": "/To-Do-List-App/README.md"
     },
     {
+  "thumbnail": "/thumbnails/memory-matching-game.png",
+  "title": "Memory Matching Game",
+  "link": "/Memory Matching Game/index.html",
+  "readme": "/Memory Matching Game/README.md"
+},
+    {
         "thumbnail": "/thumbnails/quiz-app-thumbnail.png",
         "title": "Quiz App",
         "link": "/Quiz-App/index.html",
