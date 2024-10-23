@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Shivam Kumar Gupta">
+        <meta name="description" content="This is my first project for HTML5.">
+        <title>LTS Contact</title>
+        <link rel="icon" href="img/tacoslogo2.jpg" type="image/x-icon">
+    </head>
+
+    <body>
+       <header>
+        <h1>Contact Us</h1>
+        <nav aria-label="primary navigation">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="#/aboutlts">About LTS</a></li>
+                <li><a href="#/menu">Our Menu</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+        <figure>    
+            <img src="img/trayoftaco.jpg" alt="Tray of tacos." title="We love tray of tacos." width="200" height="100">
+            <figcaption>Tray of Tacos</figcaption>
+        </figure>
+        </header>   
+
+        <main>
+            <hr>
+            <section>
+              <h2>Our Contact Form</h2>
+              
+              <form action="https://httpbin.org/get" method="get">
+                <fieldset>
+                    <legend>Send us a message.</legend>
+                    <p>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" placeholder="Your Name" required>
+                </p>
+                <p>
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" placeholder="Your Email" required>
+                </p>
+                <p>
+                    <label for="tel">Phone No:</label>
+                    <input type="tel" id="tel" name="tel" placeholder="Your Phone No." required>
+                </p>
+                <p>
+                    <label for="message">Your Message</label>
+                    <br>
+                    <textarea name="message" id="message" rows="00" cols="50" placeholder="Type your message here."></textarea>
+                </p>
+                <button type="submit">Send</button>
+                <button type="reset">Reset</button>
+                </fieldset>
+            </form>
+            </section>
+
+            <section>
+                <h2>Our Location</h2>
+                <address> Av. Ribera de San Cosme 56, San Rafael <br>
+                    Cuauhtémoc, 06470 Ciudad de México <br>
+                     CDMX, Mexico
+                    <br>
+                Phone : <a href="tel:55555555">+55555555</a></address>
+            </section>
+             
+                <hr>
+                <footer>
+                    <p> Copyright &copy;The Little Taco Shop</p>
+                </footer>
+        </main>

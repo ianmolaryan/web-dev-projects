@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Shivam Kumar Gupta">
+        <meta name="description" content="This is my first project for HTML5.">
+        <title>Little Tacos Shop</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMrIX4F+5c+5Hd6F8Y6fyy9Xdx+7x3rfWciDiQ1" crossorigin="anonymous" />
+        <link rel="stylesheet" href="style.css" />
+    </head>
+
+    <body>
+       <header>
+        <h1>Welcome to The Little Taco Shop</h1>
+        <nav aria-label="primary navigation">
+            <ul type="circle">
+                <li><a href="#aboutlts">About <abbr title="Little Taco Shop">LTS</abbr></a></li>
+                <li><a href="#menu">Our Menu</a></li>
+                <li><a href="hours.html" >Store Hours</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        
+        </nav>
+        <figure>    
+        <img src="img/tacosimage.jpg" alt="This is how tacos look like." title="We love tacos." width="200" height="100">
+        <figcaption>Tacos</figcaption>
+        </figure>
+    </header>
+       
+        <hr>
+        <main>
+        <article id="aboutlts">
+            <h2>About <abbr title="Little Taco Shop">LTS</abbr></h2>
+            <p>
+                <abbr title="Little Taco Shop">LTS</abbr> was founded in <time datetime="2022">2022</time> . Our shop was built from a <strong>love of tacos</strong>🌮🌮🌮. We hope our shop adds a unique and interesting place to our town.
+            </p>
+            <aside>
+            <h3>Taco Trivia</h3>
+            <details>
+                <summary>When did tacos first appear in the United States?</summary>
+                <p>Jeffrey M. Pitcher , taco historian and professor of history at the University of Minnesota,says the earliest mention of <mark>Tacos</mark> in the United States are in a newspaper from <time datetime="1905">1905</time>.(Source:-<cite><a href="https://www.smithsonianmag.com/arts-culture/where-did-the-taco-come-from-81228162/#:~:text=The%20first%20references%20%5Bto%20the,goes%20back%20to%20time%20immemorial." target="_blank">Smithsonian Magazine</a></cite>)</p>
+               
+            </details>
+        </aside>
+        </article>
+        <hr>
+        <article id="menu">
+            <h2>Our Menu</h2>
+            <table>
+            <thead>
+            <tr>
+                <caption>Our Tacos</caption>
+                <th>Tacos</th>
+                <th scope="col"><abbr title="Quantity">Qty.</abbr></th>
+                <th scope="col">Price</th>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="col" rowspan="3">Crunchy</th>
+                    <td>1</td>
+                    <td>$1.50</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>$2.50</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>$3.50</td>
+                </tr>
+
+                <tr></tr>
+                    <th scope="col" rowspan="3">Soft</th>
+                    <td>1</td>
+                    <td>$2.00</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>$3.50</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>$4.50</td>
+                </tr>
+            </tbody>
+                
+            </table>
+            <a href="#">Back to Top</a>
+            <hr>
+        </article>
+
+        <footer>
+            <div class="footer-links">
+                <a href="./about.html">About Us</a>
+                <a href="#contact">Contact</a>
+                <a href="#privacy">Privacy Policy</a>
+            </div>
+            
+            <!-- Social Media Icons -->
+            <div class="social-icons">
+                <a href="https://facebook.com" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://instagram.com" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            </div>
+        
+            <p>&copy; 2024 Your Website. All rights reserved.</p>
+        </footer>
+
+    </main> 
+        
+       
+    </body>
+</html>
