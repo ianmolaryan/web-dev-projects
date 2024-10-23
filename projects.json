@@ -52,5 +52,11 @@
         "title": "Animated Login Page",
         "link": "/Animated-Login-Page/index.html",
         "readme": "/Animated-Login-Page/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/bootstrap-project.png",
+        "title": "Bootstrap Landing Page",
+        "link": "/bootstrap-project/index.html",
+        "readme": "/bootstrap-project/README.md"
     }
 ]

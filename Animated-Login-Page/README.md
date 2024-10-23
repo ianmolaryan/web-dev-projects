@@ -1,5 +1,3 @@
-Here’s an updated version for a README.md file focusing on an animated login page using only HTML and CSS:
-
 # Animated Login Page
 
 A simple yet visually appealing login page featuring smooth animations to enhance the user experience. This project demonstrates modern web design techniques using only HTML and CSS.
