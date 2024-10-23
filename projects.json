@@ -59,5 +59,13 @@
         "title": "Little Taco Shop",
         "link": "/littletacoshop-directory/index.html",
         "readme": "/littletacoshop-directory/README.md"
+      },
+
+
+    {
+        "thumbnail": "/thumbnails/littletacoshopupdated.png",
+        "title": "Little Taco Shop Updated",
+        "link": "/littletacoshopupdated-directory/index.html",
+        "readme": "/littletacoshopupdated-directory/README.md"
       }
 ]
