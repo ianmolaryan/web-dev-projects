@@ -75,8 +75,14 @@
     {
         "thumbnail": "/thumbnails/littletacoshop-thumbnail.png",
         "title": "Little Taco Shop",
-        "link": "/littletacoshop/index.html",
-        "readme": "/littletacoshop/README.md"
+        "link": "/littletacoshop-directory/index.html",
+        "readme": "/littletacoshop-directory/README.md"
+      },
+    {
+        "thumbnail": "/thumbnails/littletacoshopupdated.png",
+        "title": "Little Taco Shop Updated",
+        "link": "/littletacoshopupdated-directory/index.html",
+        "readme": "/littletacoshopupdated-directory/README.md
     },
     {
         "thumbnail": "/thumbnails/gym-animating.png",
