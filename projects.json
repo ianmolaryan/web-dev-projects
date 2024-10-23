@@ -91,9 +91,17 @@
         "readme": "/Mindshambo/README.md"
     },
     {
+
+        "thumbnail": "/thumbnails/guess-the-number-2-player-thumbnail.png",
+        "title": "Guess The Number 2 Player Mode",
+        "link": "./guess-the-number-2-player/index.html",
+        "readme": "/guess-the-number-2-player/README.md"
+},
+  {
         "thumbnail": "/thumbnails/Netflix-Clone.png",
         "title": "Netflix Clone",
         "link": "./Netflix-Clone/Netflix.html",
         "readme": "/Netflix-Clone/README.md"
+
     }
 ]
