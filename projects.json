@@ -82,5 +82,11 @@
         "title": "Mindshambo",
         "link": "./Mindshambo/index.html",
         "readme": "/Mindshambo/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/Netflix-Clone.png",
+        "title": "Netflix Clone",
+        "link": "./Netflix-Clone/Netflix.html",
+        "readme": "/Netflix-Clone/README.md"
     }
 ]
