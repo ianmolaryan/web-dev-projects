@@ -58,5 +58,11 @@
         "title": "Bootstrap Landing Page",
         "link": "/bootstrap-project/index.html",
         "readme": "/bootstrap-project/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/currency-converter.png",
+        "title": "Currency Converter Page",
+        "link": "/currency-converter/index.html",
+        "readme": "/currency-converter/README.md" 
     }
 ]
