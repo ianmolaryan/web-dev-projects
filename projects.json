@@ -107,14 +107,13 @@
         "title": "Currency Converter",
         "link": "./currency-converter/index.html",
         "readme": "/currency-converter/README.md"
-<<<<<<< HEAD
+
     },
     {
         "thumbnail": "/thumbnails/landing-page.png",
         "title": "Landing Page",
         "link": "./landing-page/index.html",
         "readme": "/landing-page/README.md"
-=======
 },
   {
 
@@ -128,8 +127,5 @@
         "title": "Netflix Clone",
         "link": "./Netflix-Clone/Netflix.html",
         "readme": "/Netflix-Clone/README.md"
-
-
->>>>>>> e62f656729f740b5a8bf63e82d2eb79dd89a3d60
     }
 ]
