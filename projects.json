@@ -60,9 +60,39 @@
         "readme": "/bootstrap-project/README.md"
     },
     {
+        "thumbnail": "/thumbnails/calculator-thumbnail.png",
+        "title": "Calculator",
+        "link": "/Calculator/index.html",
+        "readme": "/Calculator/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/nike-thumbnail.png",
+        "title": "Nike Old Clone",
+        "link": "/nike/index.html",
+        "readme": "/nike/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/littletacoshop-thumbnail.png",
+        "title": "Little Taco Shop",
+        "link": "/littletacoshop/index.html",
+        "readme": "/littletacoshop/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/gym-animating.png",
+        "title": "gym-animating",
+        "link": "/gym-animating/index.html",
+        "readme": "/gym-animating/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/mindshambo-thumbnail.png",
+        "title": "Mindshambo",
+        "link": "./Mindshambo/index.html",
+        "readme": "/Mindshambo/README.md"
+    },
+    {
         "thumbnail": "/thumbnails/currency-converter.png",
-        "title": "Currency Converter Page",
-        "link": "/currency-converter/index.html",
-        "readme": "/currency-converter/README.md" 
+        "title": "Currency Converter",
+        "link": "./currency-converter/index.html",
+        "readme": "/currency-converter/README.md"
     }
 ]
