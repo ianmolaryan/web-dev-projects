@@ -94,5 +94,11 @@
         "title": "Currency Converter",
         "link": "./currency-converter/index.html",
         "readme": "/currency-converter/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/landing-page.png",
+        "title": "Landing Page",
+        "link": "./landing-page/index.html",
+        "readme": "/landing-page/README.md"
     }
 ]
