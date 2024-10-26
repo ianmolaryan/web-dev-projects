@@ -12,11 +12,11 @@
         "readme": "/To-Do-List-App/README.md"
     },
     {
-  "thumbnail": "/thumbnails/memory-matching-game.png",
-  "title": "Memory Matching Game",
-  "link": "/Memory Matching Game/index.html",
-  "readme": "/Memory Matching Game/README.md"
-},
+        "thumbnail": "/thumbnails/memory-matching-game.png",
+        "title": "Memory Matching Game",
+        "link": "/Memory Matching Game/index.html",
+        "readme": "/Memory Matching Game/README.md"
+    },
     {
         "thumbnail": "/thumbnails/quiz-app-thumbnail.png",
         "title": "Quiz App",
@@ -82,7 +82,7 @@
         "title": "Little Taco Shop",
         "link": "/littletacoshop/index.html",
         "readme": "/littletacoshop/README.md"
-      },
+    },
     {
         "thumbnail": "/thumbnails/littletacoshopupdated.png",
         "title": "Little Taco Shop Updated",
@@ -102,30 +102,33 @@
         "readme": "/Mindshambo/README.md"
     },
     {
-
         "thumbnail": "/thumbnails/currency-converter.png",
         "title": "Currency Converter",
         "link": "./currency-converter/index.html",
         "readme": "/currency-converter/README.md"
-
     },
     {
         "thumbnail": "/thumbnails/landing-page.png",
         "title": "Landing Page",
         "link": "./landing-page/index.html",
         "readme": "/landing-page/README.md"
-},
-  {
-
+    },
+    {
         "thumbnail": "/thumbnails/guess-the-number-2-player-thumbnail.png",
         "title": "Guess The Number 2 Player Mode",
         "link": "./guess-the-number-2-player/index.html",
         "readme": "/guess-the-number-2-player/README.md"
-},
-  {
+    },
+    {
         "thumbnail": "/thumbnails/Netflix-Clone.png",
         "title": "Netflix Clone",
         "link": "./Netflix-Clone/Netflix.html",
         "readme": "/Netflix-Clone/README.md"
+    },
+    {
+        "thumbnail": "/thumbnails/digital-clock.png",
+        "title": "Digital Clock",
+        "link": "./Creative Digital clock/index.html",
+        "readme": "/Creative Digital clock/README.md"
     }
 ]
