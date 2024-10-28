@@ -130,5 +130,13 @@
         "title": "Digital Clock",
         "link": "./Creative Digital clock/index.html",
         "readme": "/Creative Digital clock/README.md"
-    }
+    },
+    {
+        "thumbnail": "/thumbnails/hostingpage.png",
+        "title": "hostingpage",
+        "link": "/hostingpage/index.html",
+        "readme": "/hostingpage/README.md"
+      }
+
 ]
+
