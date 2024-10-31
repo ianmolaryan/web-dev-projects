@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:gilroy;
+
+}
+html,body{
+    height:100%;
+    width:100%;
+    
+}
+body{
+    background-color:white;
+}
+#main{
+    height:80%;
+    width:80%;
+    position:absolute;
+    background-color:rgb(226, 164, 164);
+    left:10%;
+    top:10%;
+    border-radius:80px;
+}
+#nav {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:20px;
+    padding:20px;
+}
+.signin-btn{
+    position:absolute;
+    left:90%;
+    border-radius:30px;
+    font-size:15px;
+    font-weight:400;
+    background-color:rgb(208,28,76);
+    color:#fff;
+    border:none;
+    padding: 10px;
+
+
+}
+#heading h1{
+    font-weight:600;
+    position:absolute;
+    top:25%;
+    left:10%;
+    
+}
+#heading p{
+    position:absolute;
+    top:40%;
+    left:10%;
+    font-style:italic;
+    -webkit-text-stroke:1px rgb(171, 26, 47);
+    color:transparent;
+}
+
+
+
+#text{
+    position:absolute;
+    top:50%;
+    left:15%;
+
+}
+#text button{
+    font-size:18px;
+    font-weight:400;
+    border-radius:3px;
+    padding:12px 20px;
+    border:none;
+    color:#fff;
+    background-color:rgb(208, 28, 76);
+    transition:all ease 0.5;
+}
+button:hover{
+    box-shadow:5px 5px 10px #000;
+}
+#useremail{
+font-size:25px;
+font-weight:500;
+color:#fff;
+
+}
+#heading text{
+    position:absolute;
+    top:60%;
+    left:10%;
+    color:rgb(171, 26, 47);
+}
+#heading img{
+    height:300px;
+    width:280px;
+    position:absolute;
+    left:70%;
+    top:25%;
+    border-radius:40px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+#class{
+
+    position:absolute;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+top:90%;
+left:10%;
+gap:10px;
+color: #000;
+}
